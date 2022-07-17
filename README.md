@@ -3,4 +3,5 @@
 
 Construção do zero um website personalizado para a empresa WE ARE 3D, utilizando as tecnologias HTML, CSS, JS, Java e SpringBoot.
 
-Você pode conferi-lo em funcionamento através do link https://weare3d.netlify.app/
+<a href="https://weare3d.netlify.app" target="_blank">Você pode conferi-lo em funcionamento através do link</a>
+
